@@ -1,2 +1,5 @@
 # NBA Player Classification
 Project to classify basketball players according to their ability to stay in the NBA for more than 5 years
+
+Project to classify basketball players according to their ability to stay in the NBA for more than 5 years
+
